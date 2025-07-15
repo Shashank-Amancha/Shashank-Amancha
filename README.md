@@ -1,18 +1,21 @@
-# Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Amancha Shashank
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="50" alt="Waving Hand" />
+</p>
 
----
+<h1 align="center">I'm Shashank Amancha</h1>
 
-## Transforming Ideas into Code
+<p align="center">
+  Transforming Ideas into Code
+</p>
 
-- 🎓 3rd-year CSE student at SR University  
-- 🤖 Exploring AI, ML, and Data Mining  
-- 💻 Skilled in Python, C, HTML, CSS  
-- 🚀 Open to collaborating on cool tech projects
-
-**🌍 Based in India**  
-**✉️ Reach me at:** [shashank.mss2006@gmail.com](mailto:shashank.mss2006@gmail.com)
-
----
+<p align="center">
+  🎓 3rd-year CSE student at SR University <br/>
+  🤖 Exploring AI, ML, and Data Mining <br/>
+  💻 Skilled in Python, C, HTML, CSS <br/>
+  🚀 Open to collaborating on cool tech projects <br/>
+  🌍 Based in India <br/>
+  ✉️ Reach me at: <a href="mailto:shashank.mss2006@gmail.com">shashank.mss2006@gmail.com</a>
+</p>
 
 ## ⚙️ Skills
 

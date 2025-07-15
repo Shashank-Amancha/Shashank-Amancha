@@ -5,7 +5,9 @@
 <h3 align="center" style="background-color: grey; color: white; padding: 10px;">
   Transforming Ideas into Code
 </h3>
-
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=2303A51639&label=Profile%20views&color=0e75b6&style=flat" alt="2303A51639" />
+</p>
 <p align="left">
   - 🎓 3rd-year CSE student at SR University <br>
   - 🤖 Exploring AI, ML, and Data Mining <br>

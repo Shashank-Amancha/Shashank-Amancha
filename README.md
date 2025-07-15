@@ -4,9 +4,7 @@
 
 <h1 align="center">I'm Shashank Amancha</h1>
 
-<p align="center">
-  Transforming Ideas into Code
-</p>
+<h2 align="center">Transforming Ideas into Code</h2>
 
 <p align="left">
   🎓 3rd-year CSE student at SR University <br/>

@@ -31,9 +31,8 @@ Transforming Ideas into Code
 
 <b>My GitHub Stats</b>
 
-<a href="https://github.com/2303A51639" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=2303A51639&langs_count=10&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-
 <a href="http://www.github.com/2303A51639"><img src="https://github-readme-stats.vercel.app/api?username=2303A51639&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=000000&hide_border=true&show_icons=true" alt="2303A51639's GitHub stats" /></a>
 
 <a href="http://www.github.com/2303A51639"><img src="https://github-readme-streak-stats.herokuapp.com/?user=2303A51639&stroke=ffffff&background=000000&ring=3382ed&fire=3382ed&currStreakNum=ffffff&currStreakLabel=3382ed&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
+<a href="https://github.com/2303A51639" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=2303A51639&langs_count=10&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>

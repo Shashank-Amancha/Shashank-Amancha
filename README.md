@@ -1,8 +1,4 @@
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="50" alt="Waving Hand" />
-</p>
-
-<h1 align="center">I'm Shashank Amancha</h1>
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Amancha Shashank
 
 <h2 align="center">Transforming Ideas into Code</h2>
 

@@ -1,96 +1,76 @@
-<h1 align="center">Hi👋, I'm Amancha Shashank</h1>
+<h1 align="center" style="background-color: grey; color: white; padding: 10px;">
+  Hi 👋, I'm Amancha Shashank
+</h1>
 
-<h2 align="center">Transforming Ideas into Code</h2>
+<h3 align="center" style="background-color: grey; color: white; padding: 10px;">
+  Transforming Ideas into Code
+</h3>
 
 <p align="left">
-  🎓 3rd-year CSE student at SR University <br/>
-  🤖 Exploring AI, ML, and Data Mining <br/>
-  💻 Skilled in Python, C, HTML, CSS <br/>
-  🚀 Open to collaborating on cool tech projects <br/>
-  🌍 Based in India <br/>
-  ✉️ Reach me at: <a href="mailto:shashank.mss2006@gmail.com">shashank.mss2006@gmail.com</a>
+  - 🎓 3rd-year CSE student at SR University <br>
+  - 🤖 Exploring AI, ML, and Data Mining <br>
+  - 💻 Skilled in Python, C, HTML, CSS <br>
+  - 🚀 Open to collaborating on cool tech projects <br>
+  - 🌍 Based in India <br>
+  - ✉️ Reach me at: <a href="mailto:shashank.mss2006@gmail.com">shashank.mss2006@gmail.com</a>
 </p>
 
-## ⚙️ Skills
+<h3 align="left" style="background-color: grey; color: white; padding: 10px;">
+  Connect with me:
+</h3>
 
 <p align="left">
-  <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" title="C"/>
+  <a href="https://github.com/2303A51639" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="30" width="40" />
   </a>
-  <a href="https://www.python.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" title="Python"/>
+  <a href="http://www.instagram.com/shashank.lms" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
   </a>
-  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" width="36" height="36" alt="VS Code" title="VS Code"/>
+  <a href="https://www.linkedin.com/in/Shashank%20Amancha" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" title="HTML5"/>
-  </a>
-  <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" title="CSS3"/>
-  </a>
-  <a href="https://www.oracle.com/uk/index.html" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/oracle-colored.svg" width="36" height="36" alt="Oracle" title="Oracle"/>
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" title="MongoDB"/>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" title="MySQL"/>
-  </a>
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" title="Figma"/>
+  <a href="https://www.youtube.com/@lmsgaming2970" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="30" width="40" />
   </a>
 </p>
 
-
-## 📱 Socials
+<h3 align="left" style="background-color: grey; color: white; padding: 10px;">
+  Languages and Tools:
+</h3>
 
 <p align="left">
-  <a href="https://www.github.com/2303A51639" target="_blank" rel="noreferrer">
-    <picture>
-      <source media="(prefers-color-scheme: colored)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-colored.svg" />
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" />
-    </picture>
+  <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
   </a>
-  <a href="http://www.instagram.com/shashank.lms" target="_blank" rel="noreferrer">
-    <picture>
-      <source media="(prefers-color-scheme: colored)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram-dark.svg" />
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" alt="Instagram" title="Instagram" />
-    </picture>
+  <a href="https://www.python.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
   </a>
-  <a href="https://www.linkedin.com/in/Shashank%20Amancha" target="_blank" rel="noreferrer">
-    <picture>
-      <source media="(prefers-color-scheme: colored)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" />
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" />
-    </picture>
+  <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
   </a>
-  <a href="https://www.youtube.com/@lmsgaming2970" target="_blank" rel="noreferrer">
-    <picture>
-      <source media="(prefers-color-scheme: colored)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube-dark.svg" />
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" alt="YouTube" title="YouTube" />
-    </picture>
+  <a href="https://www.w3schools.com/css/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
+  </a>
+  <a href="https://www.oracle.com/uk/index.html" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/oracle/oracle-icon.svg" alt="Oracle" width="40" height="40"/>
+  </a>
+  <a href="https://www.mongodb.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/>
+  </a>
+  <a href="https://www.mysql.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
+  </a>
+  <a href="https://www.figma.com/" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/>
   </a>
 </p>
 
-## 🏆 Badges
+<h3 align="left" style="background-color: grey; color: white; padding: 10px;">
+  GitHub Stats:
+</h3>
 
-**My GitHub Stats**
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=2303A51639&show_icons=true&locale=en&layout=compact" alt="Top Languages" /></p>
 
-<p align="left">
-  <a href="http://www.github.com/2303A51639">
-    <img src="https://github-readme-stats.vercel.app/api?username=2303A51639&show_icons=true&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=000000&hide_border=true" alt="GitHub Stats" />
-  </a>
-</p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=2303A51639&show_icons=true&locale=en" alt="GitHub Stats" /></p>
 
-<p align="left">
-  <a href="http://www.github.com/2303A51639">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=2303A51639&stroke=ffffff&background=000000&ring=3382ed&fire=3382ed&currStreakNum=ffffff&currStreakLabel=3382ed&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="GitHub Streak" />
-  </a>
-</p>
-
-<p align="left">
-  <a href="https://github.com/2303A51639">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=2303A51639&langs_count=10&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20Languages" alt="Top Languages" />
-  </a>
-</p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=2303A51639" alt="GitHub Streak" /></p>

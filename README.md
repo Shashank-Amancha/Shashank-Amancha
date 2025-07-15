@@ -8,7 +8,7 @@
   Transforming Ideas into Code
 </p>
 
-<p align="center">
+<p align="left">
   🎓 3rd-year CSE student at SR University <br/>
   🤖 Exploring AI, ML, and Data Mining <br/>
   💻 Skilled in Python, C, HTML, CSS <br/>

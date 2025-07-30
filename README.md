@@ -1,78 +1,106 @@
-<h1 align="center" style="background-color: grey; color: white; padding: 10px;">
-  Hi 👋, I'm Amancha Shashank
-</h1>
+<!-- ---------------------- Header ---------------------- -->
 
-<h3 align="center" style="background-color: grey; color: white; padding: 10px;">
-  Transforming Ideas into Code
-</h3>
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=2303A51639&label=Profile%20views&color=0e75b6&style=flat" alt="2303A51639" />
-</p>
-<p align="left">
-  - 🎓 3rd-year CSE student at SR University <br>
-  - 🤖 Exploring AI, ML, and Data Mining <br>
-  - 💻 Skilled in Python, C, HTML, CSS <br>
-  - 🚀 Open to collaborating on cool tech projects <br>
-  - 🌍 Based in India <br>
-  - ✉️ Reach me at: <a href="mailto:shashank.mss2006@gmail.com">shashank.mss2006@gmail.com</a>
-</p>
+<a href="https://github.com/2303A51639" target="_blank">
+  <img src="./assets/profile/header_profile_write.gif" width="100%"/>
+</a>
 
-<h3 align="left" style="background-color: grey; color: white; padding: 10px;">
-  Connect with me:
-</h3>
+<br>
 
-<p align="left">
-  <a href="https://github.com/2303A51639" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="30" width="40" />
-  </a>
-  <a href="http://www.instagram.com/shashank.lms" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
-  </a>
-  <a href="https://www.linkedin.com/in/Shashank%20Amancha" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
-  <a href="https://www.youtube.com/@lmsgaming2970" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="30" width="40" />
-  </a>
+<p align="center">
+    <a href="https://github.com/2303A51639" target="_blank">
+        <img src="https://img.shields.io/github/followers/2303A51639?style=flat&logo=github&label=Github%20Followers&color=FF0000"/>
+    </a>
+    <a href="https://github.com/2303A51639/2303A51639/releases" target="_blank">
+        <img src="https://img.shields.io/github/v/release/2303A51639/2303A51639?include_prereleases&label=Version&color=029c2b"/>
+    </a>
+    <a href="https://github.com/2303A51639/2303A51639" target="_blank">
+        <img src="https://img.shields.io/github/license/2303A51639/2303A51639?style=flat&label=License&color=blue"/>
+    </a>
+    <a href="https://github.com/2303A51639/2303A51639/commits" target="_blank">
+        <img src="https://img.shields.io/github/last-commit/2303A51639/2303A51639?style=flat&label=Last%20Updated&color=FF0000"/>
+    </a>
+    <a href="https://github.com/2303A51639/2303A51639" target="_blank">
+        <img src="https://img.shields.io/github/created-at/2303A51639/2303A51639?label=Created&color=029699"/>
+    </a>
 </p>
 
-<h3 align="left" style="background-color: grey; color: white; padding: 10px;">
-  Languages and Tools:
+<!-- ---------------------- Intro ---------------------- -->
+
+# Hi 👋, I'm Amancha Shashank <img src="./assets/icons/gif/hi.gif" width="30px"> <img align="right" src="https://komarev.com/ghpvc/?username=2303A51639&abbreviated=true&style=for-the-badge&color=FF0000">
+
+<img align="right" src="./assets/images/hacker_image.gif" width="220">
+
+### A passionate Computer Science student and tech enthusiast from India 🇮🇳
+
+- 🎓 3rd-year CSE student at SR University  
+- 🤖 Exploring AI, ML, and Data Mining  
+- 💻 Skilled in Python, C, HTML, CSS  
+- 🚀 Open to collaborating on tech projects  
+- ✉️ Reach me at: [shashank.mss2006@gmail.com](mailto:shashank.mss2006@gmail.com)
+
+<!-- ---------------------- Contact ---------------------- -->
+
+## 🌐 Contact Me
+
+<a href="https://github.com/2303A51639" target="_blank">
+  <img src="./assets/icons/gif/github.gif" width="70" title="GitHub"/>
+</a>
+<a href="https://www.linkedin.com/in/Shashank%20Amancha" target="_blank">
+  <img src="./assets/icons/gif/linkedin.gif" width="70" title="LinkedIn"/>
+</a>
+<a href="http://www.instagram.com/shashank.lms" target="_blank">
+  <img src="./assets/icons/gif/instagram.gif" width="70" title="Instagram"/>
+</a>
+<a href="https://www.youtube.com/@lmsgaming2970" target="_blank">
+  <img src="./assets/icons/gif/youtube.gif" width="70" title="YouTube"/>
+</a>
+
+<!-- ---------------------- Skills ---------------------- -->
+
+<img src="./assets/icons/gif/rainbow_line.gif" width="100%" height="1"/>
+
+<h3 align="center">
+  <img src="./assets/icons/gif/code.gif" width="22" height="22" align="left" />
+  【 S K I L L S 】
+  <img src="./assets/icons/gif/code.gif" width="22" height="22" align="right" />
 </h3>
 
-<p align="left">
-  <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
-  </a>
-  <a href="https://www.python.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
-  </a>
-  <a href="https://www.oracle.com/uk/index.html" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/oracle/oracle-icon.svg" alt="Oracle" width="40" height="40"/>
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
-  </a>
-  <a href="https://www.figma.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/>
-  </a>
+<img src="./assets/icons/gif/rainbow_line.gif" width="100%" height="1"/>
+
+### 👨‍💻 Languages
+
+<p style="display: flex;">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" title="C"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" title="Python"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" title="HTML5"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" title="CSS3"/>
 </p>
 
-<h3 align="left" style="background-color: grey; color: white; padding: 10px;">
-  GitHub Stats:
+### 🧰 Databases & Tools
+
+<p style="display: flex;">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" title="MySQL"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40" title="MongoDB"/>
+  <img src="https://www.vectorlogo.zone/logos/oracle/oracle-icon.svg" width="40" title="Oracle"/>
+  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40" title="Figma"/>
+</p>
+
+<!-- ---------------------- GitHub Stats ---------------------- -->
+
+<img src="./assets/icons/gif/rainbow_line.gif" width="100%" height="1"/>
+
+<h3 align="center">
+  <img src="./assets/icons/gif/code.gif" width="22" height="22" align="left" />
+  【 S T A T S 】
+  <img src="./assets/icons/gif/code.gif" width="22" height="22" align="right" />
 </h3>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=2303A51639&show_icons=true&locale=en&layout=compact" alt="Top Languages" /></p>
+<img src="./assets/icons/gif/rainbow_line.gif" width="100%" height="1"/>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=2303A51639&show_icons=true&locale=en" alt="GitHub Stats" /></p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=2303A51639&theme=monokai-metallian&date_format=M%20j%5B%2C%20Y%5D&card_width=1150" width="100%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=2303A51639&show_icons=true&rank_icon=github&theme=radical" height="197px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=2303A51639&theme=radical&card_width=500" height="197px"/>
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=2303A51639" alt="GitHub Streak" /></p>
+<!-- ---------------------- END ---------------------- -->

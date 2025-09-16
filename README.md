@@ -1,14 +1,12 @@
 <!-- ========================== ABOUT ========================== -->
 
-# Hi, I'm Amancha Shashank <img src="https://github.com/2303A51639/2303A51639/assets/hi.gif" width="30px">
+# Hi, I'm Amancha Shashank <img src="./assets/hi.gif" width="30px" alt="Hi">
 
 <!-- ========================== VIEWS ========================== -->
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=2303A51639&style=flat-square&color=blue" alt="Profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=Shashank-Amancha&style=flat-square&color=blue" alt="Profile views"/>
 </p>
-
-<img align="right" src="https://github.com/2303A51639/2303A51639/assets/hacker.gif" width="220"/>
 
 A passionate computer science student from India 🇮🇳
 
@@ -22,10 +20,10 @@ A passionate computer science student from India 🇮🇳
 
 ## 🌐 Connect With Me
 
-<a href="https://github.com/2303A51639" target="_blank">
+<a href="https://github.com/Shashank-Amancha" target="_blank">
   <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" width="40"/>
 </a>
-<a href="https://www.linkedin.com/in/Shashank%20Amancha" target="_blank">
+<a href="https://www.linkedin.com/in/Shashank-Amancha" target="_blank">
   <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40"/>
 </a>
 <a href="http://www.instagram.com/shashank.lms" target="_blank">
@@ -37,15 +35,15 @@ A passionate computer science student from India 🇮🇳
 
 <!-- ========================== SKILLS DIVIDER ========================== -->
 
-<img src="https://raw.githubusercontent.com/Harsh-Dobariya/Harsh-Dobariya/main/assets/icons/gif/rainbow_line.gif" width="100%" height="1"/>
+<img src="./assets/rainbow_line.gif" width="100%" height="1"/>
 
 <h3 align="center">
-  <img src="https://github.com/Harsh-Dobariya/Harsh-Dobariya/blob/main/assets/icons/gif/code.gif" width="22" height="22" align="left" />
+  <img src="./assets/code.gif" width="22" height="22" align="left" />
   【 S K I L L S 】
-  <img src="https://github.com/Harsh-Dobariya/Harsh-Dobariya/blob/main/assets/icons/gif/code.gif" width="22" height="22" align="right" />
+  <img src="./assets/code.gif" width="22" height="22" align="right" />
 </h3>
 
-<img src="https://raw.githubusercontent.com/Harsh-Dobariya/Harsh-Dobariya/main/assets/icons/gif/rainbow_line.gif" width="100%" height="1"/>
+<img src="./assets/rainbow_line.gif" width="100%" height="1"/>
 
 ### 👨‍💻 Programming and Markup Languages
 
@@ -63,29 +61,29 @@ A passionate computer science student from India 🇮🇳
 
 <!-- ========================== STATS ========================== -->
 
-<img src="https://raw.githubusercontent.com/Harsh-Dobariya/Harsh-Dobariya/main/assets/icons/gif/rainbow_line.gif" width="100%" height="1"/>
+<img src="./assets/rainbow_line.gif" width="100%" height="1"/>
 
 <h3 align="center">
-  <img src="https://github.com/Harsh-Dobariya/Harsh-Dobariya/blob/main/assets/icons/gif/code.gif" width="22" height="22" align="left" />
+  <img src="./assets/code.gif" width="22" height="22" align="left" />
   【 S T A T S 】
-  <img src="https://github.com/Harsh-Dobariya/Harsh-Dobariya/blob/main/assets/icons/gif/code.gif" width="22" height="22" align="right" />
+  <img src="./assets/code.gif" width="22" height="22" align="right" />
 </h3>
 
-<img src="https://raw.githubusercontent.com/Harsh-Dobariya/Harsh-Dobariya/main/assets/icons/gif/rainbow_line.gif" width="100%" height="1"/>
+<img src="./assets/rainbow_line.gif" width="100%" height="1"/>
 
 ### 🔥 GitHub Streak & Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=2303A51639&theme=monokai-metallian&date_format=M%20j%5B%2C%20Y%5D&card_width=1150"/>
+  <img src="https://streak-stats.demolab.com?user=Shashank-Amancha&theme=monokai-metallian&date_format=M%20j%5B%2C%20Y%5D&card_width=1150"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=2303A51639&show_icons=true&rank_icon=github&theme=radical"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=2303A51639&theme=radical&card_width=500"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Shashank-Amancha&show_icons=true&rank_icon=github&theme=radical"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Shashank-Amancha&theme=radical&card_width=500"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=2303A51639&theme=react-dark"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shashank-Amancha&theme=react-dark"/>
 </p>
 
 <!-- ========================== END ========================== -->

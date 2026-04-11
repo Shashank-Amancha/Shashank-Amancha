@@ -14,7 +14,7 @@ A passionate computer science student from India 🇮🇳
 - 🤖 Exploring AI, ML, and Data Mining  
 - 💻 Skilled in Python, C, HTML, CSS  
 - 🚀 Looking to collaborate on cool tech projects  
-- ✉️ Reach me at: [shashank.mss2006@gmail.com](mailto:shashank.mss2006@gmail.com)
+- ✉️ Reach me at: [amanchashashank9@gmail.com](mailto:amanchashashank9@gmail.com)
 
 <!-- ========================== CONTACT ========================== -->
 

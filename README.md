@@ -10,7 +10,7 @@
 
 A passionate computer science student from India 🇮🇳
 
-- 🎓 3rd-year CSE student at SR University  
+- 🎓 4th-year CSE student at SR University  
 - 🤖 Exploring AI, ML, and Data Mining  
 - 💻 Skilled in Python, C, HTML, CSS  
 - 🚀 Looking to collaborate on cool tech projects  
